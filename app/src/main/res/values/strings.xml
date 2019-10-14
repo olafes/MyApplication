@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_fragment_header">Welcome back</string>
+    <string name="sign_in_fragment_email_hint">Email</string>
+    <string name="sign_in_fragment_password_hint">Password</string>
+    <string name="sign_in_fragment_button">Sign in</string>
+    <string name="sign_in_fragment_socialmedia_login_str">Or continue with</string>
+    <string name="sign_in_fragment_sign_in_btn">Sign up</string>
+    <string name="sign_in_fragment_dont_remember_pass_btn">I don\'t remember password</string>
+</resources>

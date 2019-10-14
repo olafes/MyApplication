@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D7B5FC</color>
+    <color name="colorPrimaryDark">#D7B5FC</color>
+    <color name="colorAccent">#D7B5FC</color>
+    <color name="colorLight">#F3E8FF</color>
+    <color name="colorPurpleLight">#D7B5FC</color>
+    <color name="colorPurpleDark">#B28ED9</color>
+    <color name="colorPurpleFont">#6D4D8F</color>
+    <color name="user_input_color">#B28ED9</color>
+    <color name="unfocused_color">#B28ED9</color>
+</resources>
